@@ -1,4 +1,4 @@
-# REAL TIME CHAT APPLICATION
+# Live Chat
 
 ## Description
 
